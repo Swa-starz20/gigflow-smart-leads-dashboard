@@ -2,9 +2,6 @@
 
 A production-grade MERN stack SaaS application for managing sales leads with JWT authentication, role-based access control, advanced filtering, pagination, and CSV export.
 
-![Dashboard](./docs/screenshots/dashboard.png)
-> Screenshot placeholder — add your dashboard capture to `docs/screenshots/`
-
 ## Features
 
 - **Authentication:** Register, login, JWT, persistent sessions, protected routes
