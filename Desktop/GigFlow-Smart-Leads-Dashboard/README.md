@@ -43,12 +43,6 @@ docker-compose up --build
 docker exec -it gigflow-backend node dist/scripts/seed.js
 ```
 
-| Service | URL |
-|---------|-----|
-| Frontend | http://localhost |
-| API | http://localhost:5000/api |
-| MongoDB | localhost:27017 |
-
 ## Local Development
 
 ### Prerequisites
