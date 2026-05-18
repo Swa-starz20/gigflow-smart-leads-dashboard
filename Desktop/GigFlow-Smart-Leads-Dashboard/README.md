@@ -208,14 +208,6 @@ Base URL: `http://localhost:5000/api`
 - [ ] Mobile responsive leads cards
 - [ ] Logout clears session
 
-## Screenshots
-
-| Page | Path |
-|------|------|
-| Dashboard | `docs/screenshots/dashboard.png` |
-| Leads List | `docs/screenshots/leads.png` |
-| Login | `docs/screenshots/login.png` |
-
 ## License
 
 MIT
